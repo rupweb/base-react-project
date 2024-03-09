@@ -1,5 +1,5 @@
 {
-  "name": "rights",
+  "name": "base-react-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -74,9 +74,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-    "react-scripts@5.0.1": {
-    }
-  }  
+  }
 }
