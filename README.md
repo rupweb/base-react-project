@@ -1,2 +1,42 @@
-# base-react-project
-A starting place for a react project
+
+# Base React Project
+
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
+## Description
+
+It's an initial setup for a React project
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+Copy or merge the code from GitHub
+
+## Usage
+
+After copying the code navigate to project directory and run `npm install`
+
+## License
+
+This project is licensed under the Apache License.
+
+## Contributing
+
+None
+
+## Tests
+
+jest test
+
+## Questions
+
+For any questions, please contact me at [rupert@webstersystems.co.uk](mailto:rupert@webstersystems.co.uk) or visit my [GitHub profile](https://github.com/rupweb).
+  
