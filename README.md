@@ -34,7 +34,15 @@ None
 
 ## Tests
 
+### Jest
+
 jest test
+
+### Playwright
+
+npm run playwright:test
+
+There's an issue with a 500ms timeout on 3 Safari tests
 
 ## Questions
 
